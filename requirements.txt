@@ -1,0 +1,6 @@
+brickschema
+pandas
+psycopg2-binary
+rdflib
+plotly-express
+reasonable
