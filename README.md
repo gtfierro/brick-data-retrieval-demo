@@ -14,3 +14,5 @@ unzip bldg2-data.zip
 ```
 
 Adjust passwords in `scripts/start_docker_containers.sh`.
+
+The `scripts/cleanup.sh` script will delete the docker containers and network and you can run the start/setup scripts again
